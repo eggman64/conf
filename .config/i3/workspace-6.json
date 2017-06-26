@@ -1,0 +1,49 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 434,
+       "width": 734,
+       "x": 0,
+       "y": 0
+    },
+    "name": "vinay@mordor: ~/workspace/medigo/support",
+    "percent": 0.5,
+    "swallows": [
+       {
+       // "class": "^Gnome\\-terminal$",
+       // "instance": "^gnome\\-terminal\\-server$",
+       // "title": "^vinay\\@mordor\\:\\ \\~\\/workspace\\/medigo\\/support$",
+       // "transient_for": "^$",
+       // "window_role": "^gnome\\-terminal\\-window\\-2edd4122\\-a7ec\\-4065\\-a7fa\\-45a8eba4971b$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 434,
+       "width": 734,
+       "x": 0,
+       "y": 0
+    },
+    "name": "vinay@mordor: ~/workspace/medigo/support",
+    "percent": 0.5,
+    "swallows": [
+       {
+       // "class": "^Gnome\\-terminal$",
+       // "instance": "^gnome\\-terminal\\-server$",
+       // "title": "^vinay\\@mordor\\:\\ \\~\\/workspace\\/medigo\\/support$",
+       // "transient_for": "^$",
+       // "window_role": "^gnome\\-terminal\\-window\\-a4f0d67f\\-6c99\\-4ded\\-bb11\\-6d2a8faef591$"
+       }
+    ],
+    "type": "con"
+}
+
