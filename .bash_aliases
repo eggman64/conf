@@ -1,0 +1,5 @@
+alias cdw='change_directory_to_go_workspace'
+alias a='change_directory_to_go_workspace'
+alias aptup='sudo apt update && sudo apt upgrade'
+alias fuknaut='sudo kill -9 `ps -eaf | grep -v grep |grep naut | awk '\''{print $2}'\'' | head -n 1`'
+alias config='/usr/bin/git --git-dir=$HOME/.myconf/ --work-tree=$HOME'
